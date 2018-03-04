@@ -1,0 +1,8 @@
+wordOrCharChoice:c
+charSequence:a
+wordOrCharChoice:c
+charSequence:c
+wordOrCharChoice:c
+charSequence:s
+wordOrCharChoice:c
+charSequence:e

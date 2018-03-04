@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Hangman Unit Tests" verbose="1" >
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+    <test name="Hangman All Unit Tests"   >
+        <packages>
+            <package name= "com.hangman.unittests" />
+        </packages>
+    </test>
+</suite>

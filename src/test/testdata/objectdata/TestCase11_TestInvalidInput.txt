@@ -1,0 +1,12 @@
+wordOrCharChoice:c
+charSequence:aa
+wordOrCharChoice:c
+charSequence:(*
+wordOrCharChoice:c
+charSequence:null
+wordOrCharChoice:c
+charSequence:AA
+wordOrCharChoice:c
+charSequence:000
+wordOrCharChoice:c
+charSequence:%%%%%

@@ -1,0 +1,3 @@
+wordOrCharChoice:c
+charSequence:f
+Exit:true

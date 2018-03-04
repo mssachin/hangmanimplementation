@@ -1,0 +1,4 @@
+wordOrCharChoice:w
+charSequence:v
+wordOrCharChoice:w
+charSequence:access

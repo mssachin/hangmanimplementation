@@ -1,0 +1,2 @@
+wordOrCharChoice:S
+Exit:true

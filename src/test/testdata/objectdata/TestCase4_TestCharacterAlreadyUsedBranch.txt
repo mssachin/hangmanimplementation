@@ -1,0 +1,5 @@
+wordOrCharChoice:c
+charSequence:a
+wordOrCharChoice:c
+charSequence:a
+Exit:true
